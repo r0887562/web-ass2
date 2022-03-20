@@ -57,9 +57,9 @@
             <td class="verwijder">X</td>
         </tr>
         <%}%>
-
-
     </table>
+<p>De game met Hoogste IGN is <%= games.HoogsteIGN()%></p>
+    <p>De game met de Laagste IGN is <%=games.LaagsteIGN()%></p>
 </main>
 
 <footer>Aaron Abbey | Webontwikkeling 2 - 2021-2022</footer>

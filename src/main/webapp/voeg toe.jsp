@@ -23,7 +23,7 @@
 </header>
 
 <main>
- <form method="POST" action="overzicht">
+ <form method="POST" action="overzicht" novalidate>
 
     <p class="class-for-submit"><label for="naam">Naam:</label>
         <input type="text" id="naam" name="naam" >
